@@ -1,0 +1,44 @@
+body.bbcolor{
+    background-color: #FFFDDE;
+}
+
+
+h1.t-color{
+    color:#bcbadc;
+    font-family: "Pacifico", cursive;
+    font-weight: 500;
+    font-style: normal;
+ 
+}
+h2.hh-color{
+
+    background: linear-gradient(#afabdd,#e5e4f3);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "Righteous", sans-serif;
+    font-size: 26px;;
+    font-weight: 400;
+    font-style: normal;
+
+      
+}
+
+.cc{
+    color: #c3b9fd;
+}
+.fws{
+    font-weight: bold;
+}
+
+.bbc{
+    color: #fff;
+    background-color:#ac9cc7 ;
+    border:#9B86BD; 
+    border-radius: 5px;
+    font-size: 16px;
+   font-weight: 400;
+}
+.bbc:hover {
+    background-color:#aea3c1 ;
+}
